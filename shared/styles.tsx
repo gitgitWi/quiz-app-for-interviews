@@ -1,5 +1,4 @@
 import { Global, css, keyframes } from "@emotion/react";
-import styled from "@emotion/styled";
 
 export const gradient = keyframes`
   0% {
@@ -28,7 +27,7 @@ export const globalStyles = (
       body {
         padding: 0;
         margin: 0;
-        font-family: Lato, sans-serif;
+        font-family: Lato, "Noto Sans KR", sans-serif;
         font-size: 24px;
       }
 

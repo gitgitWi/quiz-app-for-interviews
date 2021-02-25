@@ -32,7 +32,8 @@ const StyledHeaderTitle = styled.h1`
   max-width: 900px;
   text-align: center;
   font-family: Lato, sans-serif;
-  font-weight: 700;
+  font-style: italic;
+  font-weight: 900;
   font-size: 28px;
   color: ${primaryBrown};
 `;

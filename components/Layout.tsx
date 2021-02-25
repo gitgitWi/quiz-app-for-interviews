@@ -36,6 +36,7 @@ const StyledMainWrapper = styled.main`
   height: calc(100vh - 130px);
   padding: 20px;
   background-color: ${transparent6Background};
+  font-weight: 400;
 `;
 
 export default function Layout({ children }: LayoutProps) {
