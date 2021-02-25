@@ -15,7 +15,7 @@ const StyledBodyWrapper = styled.body`
   flex-direction: column;
   align-items: center;
   width: 100vw;
-  height: 100vh;
+  height: 100%;
 
   background: linear-gradient(
     45deg,

@@ -25,6 +25,8 @@ export const globalStyles = (
     styles={css`
       html,
       body {
+        width: 100%;
+        height: 100%;
         padding: 0;
         margin: 0;
         font-family: Lato, "Noto Sans KR", sans-serif;
